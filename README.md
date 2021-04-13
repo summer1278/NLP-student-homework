@@ -1,2 +1,2 @@
-# UoM-NLP-student-homework
+# student homework for Natural Language Systems
 storage :)
